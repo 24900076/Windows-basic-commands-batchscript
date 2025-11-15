@@ -49,7 +49,7 @@ dir %userprofile%\Desktop\MyLab
 
 
 Move the "MyLab" directory to the "Documents" folder.
-mkdir %userprofile%\Desktop\Backup 
+mkdir %userprofile%\Desktop\Backup
 mkdir %userprofile%\Desktop\Backup
 
 
